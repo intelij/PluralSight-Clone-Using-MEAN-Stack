@@ -2,20 +2,20 @@
 
 MEAN Stack basic to advanced.  Building a clone of Pluralsight with all the whistles and bells
 
-##Basic Node + Express
+## Basic Node + Express
 
-##MongoDB and Mongoose Basic Functions to get you started 
+## MongoDB and Mongoose Basic Functions to get you started 
 
-##Template Engine: EJS
+## Template Engine: EJS
 
-##Cookie and Session
+## Cookie and Session
 
-##Passport: Local Login
+## Passport: Local Login
 
-##Authentication - Facebook, Google and Twitter login integration 
+## Authentication - Facebook, Google and Twitter login integration 
 
-##Course Instructor portal
+## Course Instructor portal
 
-##Student Portal
+## Student Portal
 
-##Payment Gateway - Stripe/Braintree 
+## Payment Gateway - Stripe/Braintree 
